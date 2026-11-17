@@ -21,19 +21,26 @@ To develop an ATM and Banking System to perform basic banking operations like de
 # USECASE DIAGRAM:
 
 <img width="766" height="657" alt="Screenshot 2026-11-17 091540" src="https://github.com/user-attachments/assets/990a5a08-e4ac-4594-bce4-a1d4ace06004" />
+
 # CLASS DIAGRAM:
 
 <img width="838" height="577" alt="Screenshot 2026-11-17 092009" src="https://github.com/user-attachments/assets/918ab729-e9bf-4a06-af9c-fc69c1c08e5d" />
+
+
 # SEQUENCE DIAGRAM:
 
-<img width="507" height="701" alt="Screenshot 2026-11-17 091750" src="https://github.com/user-attachments/assets/64aaf352-abd5-4e1a-951a-0bfe8d79b62f" />
+<img width="850" height="582" alt="Screenshot 2026-11-17 091933" src="https://github.com/user-attachments/assets/e1687e97-58ae-48f8-a79d-40e3a6bab103" />
+
+
 # COMMUNICATION DIGARM:
 
-<img width="973" height="582" alt="Screenshot 2026-11-17 092054" src="https://github.com/user-attachments/assets/d773ca46-aa9e-45d9-9023-fac80715ef42" />
+<img width="973" height="582" alt="Screenshot 2026-11-17 092054" src="https://github.com/user-attachments/assets/3641664e-de46-4c4c-a7ce-d43eae966a9a" />
+
 
 # ACTIVITY DIAGRAM:
 
-<img width="507" height="701" alt="Screenshot 2026-11-17 091750" src="https://github.com/user-attachments/assets/15c93c09-8dac-43e9-b927-6e0aa9a320f7" />
+<img width="507" height="701" alt="Screenshot 2026-11-17 091750" src="https://github.com/user-attachments/assets/6758d5b4-a74b-4319-8ba4-68c62861afb9" />
+
 
 # PACKAGE DIAGRAM:
 
